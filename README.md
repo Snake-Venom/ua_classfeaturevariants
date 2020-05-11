@@ -16,6 +16,6 @@ The class features are available under the item compendiums. Don't forget that t
 
 ## Contact
 
-If you have any issues with the module, you can reach me over Discord
-Ko-fi: ko-fi.com/snake__venom
-Discord: Snake__Venom#8772
+If you have any issues with the module, you can reach me on the official FoundryVTT Discord server `Snake__Venom#8772`.
+
+If you like the module, consider sending me a [ko-fi](https://ko-fi.com/snake__venom)
