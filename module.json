@@ -1,0 +1,22 @@
+{
+    "name": "UA_ClassFeatureVariants",
+    "title": "UA - Class Feature Variants",
+    "description": "The dnd 5e UA Class Feature Variants for easy import into FoundryVTT.",
+    "version": "1.0",
+    "minimumCoreVersion": "0.5.5",
+    "compatibleCoreVersion": "0.5.5",
+    "author": "Snake__Venom",
+    "scripts": [],
+    "styles": [],
+    "packs": [{
+        "name": "UA_ClassFeatureVariants",
+        "label": "UA - Class Feature Variants",
+        "system": "dnd5e",
+        "module": "UA_ClassFeatureVariants",
+        "path": "./packs/uaclassfeaturevariants.db",
+        "entity": "Item"
+    }],
+    "url": "",
+    "manifest": "",
+    "download": ""
+}
