@@ -16,7 +16,7 @@
         "path": "./packs/uaclassfeaturevariants.db",
         "entity": "Item"
     }],
-    "url": "",
-    "manifest": "",
+    "url": "https://github.com/Snake-Venom/ua_classfeaturevariants",
+    "manifest": "https://raw.githubusercontent.com/Snake-Venom/ua_classfeaturevariants/master/module.json",
     "download": ""
 }
