@@ -11,5 +11,11 @@ The class features are available under the item compendiums. Don't forget that t
 1. Go to Foundry's Setup screen
 2. Go to the "Add-On Modules" tab
 3. Press "Install Module"
-4. Paste https://raw.githubusercontent.com/Snake-Venom/ua_classfeaturevariants/master/module.json into the text field
+4. Paste `https://raw.githubusercontent.com/Snake-Venom/ua_classfeaturevariants/master/module.json` into the text field
 5. Press "Install"
+
+## Contact
+
+If you have any issues with the module, you can reach me over Discord
+Ko-fi: ko-fi.com/snake__venom
+Discord: Snake__Venom#8772
